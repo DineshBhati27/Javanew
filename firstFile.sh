@@ -12,3 +12,6 @@ echo $(( x-y ))
 
 echo "Lets print Mulitplication";
 echo $(( x*y ))
+
+echo "Lets divide "
+echo $((x/y))
