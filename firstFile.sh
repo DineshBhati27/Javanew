@@ -9,3 +9,6 @@ echo $(( x+y ))
 
 echo "Lets print Subraction";
 echo $(( x-y ))
+
+echo "Lets print Mulitplication";
+echo $(( x*y ))
