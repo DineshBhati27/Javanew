@@ -6,3 +6,6 @@ read y
 
 echo "Lets print addition";
 echo $(( x+y ))
+
+echo "Lets print Subraction";
+echo $(( x-y ))
