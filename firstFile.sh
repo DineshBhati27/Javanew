@@ -15,4 +15,9 @@ echo $(( x*y ))
 
 echo "Lets divide "
 echo $((x/y))
-echo "We are editing the file"
+echo "We are editing the file at server"
+
+echo "Lets take new input"
+read z
+
+echo $z
